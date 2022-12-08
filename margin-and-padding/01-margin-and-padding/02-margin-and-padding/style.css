@@ -1,0 +1,41 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+   padding: 8px;
+  }
+  
+  .card {
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+    padding: 8px;
+  }
+  
+  .title {
+    background: #e3f4ff;
+    padding: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .content {
+    background: #e3f4ff;
+    padding: 16px 8px;
+  }
+  
+  .button-container {
+    background: #e3f4ff;
+    text-align: center;
+    padding: 8px;
+    
+  }
+  
+  button {
+    background: white;
+    border: 1px solid #eee;
+    margin: 0 auto;  /* moving the position of button to center auto here is base on 'and a' was set to center*/    
+    display: block;
+    padding: 8px 24px;
+  }
+  h1{
+    font-size: 16px;
+  }
